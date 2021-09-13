@@ -13,5 +13,5 @@ We are using  Bootstrap and jQuery to recreate a landing page for a fictional st
 ## Support and contact details
 {Incase of any questions, Reach out to me via any of my social media handles i.e search Brian Muganda on linkedin,facebook or brian_muganda on both twitter and Instagram.}
 ### License
-*{I used the MIT liCENCE}*
+*{I used the MIT LICENCE}*
 Copyright (c) 2021 **{Brian Muganda}**
