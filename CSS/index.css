@@ -1,10 +1,10 @@
 body {
     background-color: white;
+    font-family: sans-serif;
   }
   
-  h3{
-    font-family: 'Merriweather', serif;
-    justify-content: center;
+  h3 {
+      justify-content: center;
   }
   .home {
     background-image: url(../images/dl_bg_images/delani_homebg.jpg);
@@ -26,7 +26,7 @@ body {
     text-align: center;
     color: black;
     font-size: small;
-    font-family: 'Yantramanav', sans-serif;
+
 }
 .services {
   background-image: url(../images/dl_bg_images/delani_servicesbg.jpg);
@@ -34,7 +34,7 @@ body {
   text-align: center;
   color: white;
   font-size: small;
-  font-family: 'Yantramanav', sans-serif;
+  
 }
 .hide{
     display:none;
@@ -85,5 +85,5 @@ body {
     justify-content: center;
     text-align: center;
     font-size: x-small;
-    font-family: 'Amaranth', sans-serif;
+    
   }
