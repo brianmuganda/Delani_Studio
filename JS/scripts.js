@@ -14,4 +14,9 @@ $(document).ready(function() {
       $("#product-management-showing").toggle();
       $(".hide-product-management").toggle();
     })
-  
+    $(".Hover").hover(function(){
+        $(this).animate({opacity:'1'});
+      },
+      function(){
+        $(this).animate({opacity:'0'});
+      })
