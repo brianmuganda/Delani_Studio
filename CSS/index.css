@@ -49,10 +49,13 @@ body {
     left:25%;
     right:25%; 
   }
-  .custom-info-on-portfolio-images {
+  .pimageh {
     height: 280px;
     max-width: 280px;
     padding:2px;
+  }
+  .pimageh:hover .Hover {
+    opacity: 3;
   }
   .row{
     padding:2%;
